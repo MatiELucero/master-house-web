@@ -68,7 +68,7 @@ const Form = () => {
               />
               <br />
             </div>
-            <div className="text-2xl h-[15vh] xl:h-[5vh] mt-10">
+            <div className="text-2xl h-[15vh] xl:h-[5vh] mt-16">
               <button
                 className="hover:border-black rounded-full border-2 w-[150px] bg-letras_amarillo text-letras_morado border-black hover:bg-letras_morado hover:text-white hover:border-4"
                 type="submit"

@@ -1,6 +1,6 @@
 const Entregas = () => {
     return (
-    <div id="entregas" className="flex h-[100vh] bg-letras_morado w-full">
+    <div id="entregas" className="flex h-[105vh] bg-letras_morado w-full">
         <div className="w-[45%] h-full mx-[5%]">
             <div className="mt-[8%]">
                 <span className="text-letras_amarillo text-2xl">Mirá las entregas realizadas en todo el</span><br/>
