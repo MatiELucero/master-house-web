@@ -25,8 +25,8 @@ const About = () => {
                             <span className="flex text-white h-12 mx-8 text-2xl border-b-2 border-gray-300">Óptimizacion de materiales</span><br />
                             <span className="flex text-white h-12 mx-8 text-2xl">Flexibilidad en la arquitectura</span><br />
                             <span className="flex justify-end text-white h-14 mx-8 text-xl">No esperes más, contactanos hoy mismo</span><br />
-                            <div className="flex justify-center border-2 rounded-xl ml-[550px] py-2 xl:ml-96 border-letras_amarillo hover:border-black hover:bg-letras_amarillo">
-                                <a href="#contacto"><button className="text-2xl font-bold">Conctactános</button></a>
+                            <div className="flex justify-center border-2 rounded-xl py-2 mt-12 ml-[550px] xl:ml-96 border-letras_amarillo hover:border-black hover:bg-letras_amarillo">
+                                <a href="#contacto"><button className="text-2xl font-bold ">Conctactános</button></a>
                             </div>
                             
                         </div>
