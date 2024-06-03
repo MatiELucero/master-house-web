@@ -1,22 +1,22 @@
 const Hero = () => {
-    return <div className="bg-[url('/src/img/fondo_header.png')] bg-cover bg-center h-[90vh] p-4">
+    return <div className="bg-[url('/src/img/fondo_header.png')] bg-cover bg-center h-[90vh] lg:p-4">
                 <div className="h-full w-[100%] flex justify-center">
                     <div className="h-full w-full">
 
-                        <div className="mt-[20%] mx-[5%] h-[10%] w-[500px] border-letras_amarillo border-l-4 px-2">
-                            <span className="text-2xl font-semibold text-green-50 ">Hacer realidad tu sueño de tener una casa propia es más accesible con nosotros.</span>
+                        <div className="md:mt-[20%] mt-[35%] md:mx-[5%] mx-[100px] md:h-[10%] h-[12%] md:w-[500px] border-letras_amarillo border-l-4 px-2">
+                            <span className="text-base md:text-2xl font-semibold text-green-50 ">Hacer realidad tu sueño de tener una casa propia es más accesible con nosotros.</span>
                         </div>
 
-                        <div className="mt-[2%]">
-                            <span className="mx-[5%] text-6xl font-semibold text-white">CONSTRUIMOS</span>
+                        <div className="md:mt-[2%] mt-[25%]">
+                            <span className="md:mx-[5%] mx-[90px] text-4xl md:text-6xl font-semibold text-white">CONSTRUIMOS</span>
                             
                         </div>
-                            <span className="mx-[5%] text-6xl font-semibold text-white">TU FUTURO</span>
+                            <span className="md:mx-[5%] mx-[116px] text-4xl md:text-6xl font-semibold text-white">TU FUTURO</span>
                         <div>
 
                         </div>
-                        <div className="mt-[15%] mx-[5%] w-[500px]">
-                            <span className="text-xl font-semibold p-2 text-white">Deslizá y descubrí lo que tenemos para ofrecerte</span>
+                        <div className="md:mt-[15%] mt-[40%] mx-[125px] md:mx-[5%] md:w-[500px]">
+                            <span className="md:text-xl md:font-semibold md:p-2 text-white">Deslizá y descubrí lo que tenemos para ofrecerte</span>
                         </div>
                     </div>
                     <div className="w-[40%] h-full">

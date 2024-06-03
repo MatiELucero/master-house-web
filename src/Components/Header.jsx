@@ -34,7 +34,7 @@ const Header = () => {
             {showMenu ? <RiCloseLine /> : <RiMenu3Line />}
         </button>
         <div className="border-2 rounded-xl px-2 mr-[70px] border-letras_amarillo hover:border-black hover:bg-letras_amarillo">
-            <a href="#contacto" className="text-2xl p-2 font-bold text-white"><button className="text-2xl p-2 font-bold">Contáctanos ahora</button></a>
+            <a href="#contacto" className="text-2xl p-2 font-bold text-white"><button className=" text-2xl p-2 font-bold">Contáctanos ahora</button></a>
         </div>
         
         </header>
